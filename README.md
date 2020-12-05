@@ -1,16 +1,30 @@
 # kalkulator_kripto
 
-A new Flutter project.
+### Nama  : Muhammad Fahrul Azimi
+### NPM   : 140810180027
 
-## Getting Started
+### Nama  : Falah Rizqi Abdullah Fairuz
+### NPM   : 140810180069
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Screenshots <br>
+Homescreen:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/homepage.png "Homepage")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Vigenere:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/vigenere.png "Vigenere")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vigenere Cipher:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/vigenere_encrypt.png "Vigenere Cipher")
+
+Vigenere Decipher:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/vigenere_decrypt.png "Vigenere Decipher")
+
+Autokey:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/autokey.png "Vigenere")
+
+Autokey Cipher:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/autokey_encrypt.png "Vigenere Cipher")
+
+Autokey Decipher:<br>
+![alt text](https://github.com/FarizAlfairuz/projek_kripto/blob/master/skrinskrut/autokey_decrypt.png "Vigenere Decipher")
