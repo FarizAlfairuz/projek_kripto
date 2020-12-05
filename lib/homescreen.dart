@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Kalkulator vigenere & Autokey'),
+        title: Text('Kalkulator Vigenere & Autokey'),
         backgroundColor: Colors.red,
       ),
       body: Container(
